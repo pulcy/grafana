@@ -1,0 +1,5 @@
+{
+    "registry": "pulcy",
+    "image": "grafana",
+    "tag-latest": true
+}
