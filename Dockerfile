@@ -1,3 +1,3 @@
-FROM grafana/grafana:2.6.0
+FROM grafana/grafana:3.0.4
 
 COPY ./run.sh /run.sh
